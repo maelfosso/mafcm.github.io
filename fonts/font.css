@@ -1,0 +1,62 @@
+@font-face {
+	font-family: 'alex-brush';
+	src:url('fonts/alex-brush/AlexBrush-Regular.ttf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'allura';
+	src:url('fonts/allura/Allura-Regular.otf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'black-jack';
+	src:url('fonts/BlackJack/black_jack.ttf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'kaushan-script';
+	src:url('fonts/kaushan-script/KaushanScript-Regular.otf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'sail';
+	src:url('fonts/sail/Sail-Regular.otf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'sofia';
+	src:url('fonts/sofia/Sofia-Regular.otf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'tangerine-bold';
+	src:url('fonts/Tangerine/Tangerine_Bold.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'tangerine-regular';
+	src: url('fonts/Tangerine/Tangerine_Regular.ttf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'windsong';
+	src:url('fonts/Windsong/Windsong.ttf');
+	font-weight: normal;
+	font-style: normal;
+}
